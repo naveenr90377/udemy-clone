@@ -23,4 +23,4 @@ A simple Udemy homepage clone built using HTML and CSS.
 This project was created to practice front-end development and UI design.
 
 ## Live Demo
-Link
+https://naveenr90377.github.io/udemy-clone/
